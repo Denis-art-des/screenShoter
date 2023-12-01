@@ -1,0 +1,11 @@
+{
+  "name": "Screener",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {
+    "electron": "^27.1.2"
+  },
+  "scripts": {
+    "start": "electron ."
+  }
+}
